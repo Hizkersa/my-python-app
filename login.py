@@ -2,7 +2,7 @@
 # ❗ WARNING: This is a simulation. Never store passwords like this in real projects!
 
 USERNAME = "admin"
-PASSWORD = "Password"
+PASSWORD = "superSecret123"
 
 def authenticate(input_user, input_pass):
     if input_user == USERNAME and input_pass == PASSWORD:
